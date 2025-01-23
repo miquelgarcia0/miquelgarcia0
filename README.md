@@ -14,6 +14,10 @@ What i like to do:
 - **Automation:** Simplify workflows using **PowerShell**, **Bash**, and **Terraform**.
 - **Containerization:** Build efficient, portable applications with **Docker**.
 - **Infrastructure Management:** Manage hybrid environments, ensuring high availability and performance.
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=miquelgarcia0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
 <!--
 **miquelgarcia0/miquelgarcia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
