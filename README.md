@@ -37,15 +37,15 @@ Cloud & IT Infrastructure Enthusiast | IT Operations | Azure | Automation
 
 ### **📌 Featured Projects**  
 
-- 🚀 **[Azure Infrastructure WebApp deployment with Terraform](#)** - Automated cloud deployment using Terraform & Azure.  
+- 🚀 **[Azure Infrastructure WebApp deployment with Terraform](https://github.com/miquelgarcia0/terraform_azure_webapp)** - Automated cloud deployment using Terraform & Azure.  
 - 🏗 **[IT Automation with PowerShell](#)** - Scripts for managing Microsoft environments efficiently.  
-- 📦 **[Dockerized UPS Monitorng and Automated Shutdown Solution](#)** - Containerized deployment of a scalable web application.  
+- 📦 **[Dockerized UPS Monitorng and Automated Shutdown Solution](https://github.com/miquelgarcia0/AutomatedShutdown-UPSMonitoring)** - Containerized deployment of a scalable web application.  
 
 ---
 
 ### **📫 Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-garcia-24a99b242/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mikii05g@gmail.com)  
 
 ---
 
