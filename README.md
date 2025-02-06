@@ -1,12 +1,10 @@
 ### **Miquel's GitHub Profile**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=miquelgarcia0&label=Profile%20Views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=MiquelGit&label=Profile%20Views&color=blue&style=flat)  
 
 👋 **Hey, I'm Miquel!**  
 Cloud & IT Infrastructure Enthusiast | IT Operations | Azure | Automation  
-
 ---
-
 ### **💻 Tech Stack**  
 
 #### 🚀 **Cloud & Ops**  
@@ -37,9 +35,19 @@ Cloud & IT Infrastructure Enthusiast | IT Operations | Azure | Automation
 
 ---
 
+### **📌 Featured Projects**  
+
+- 🚀 **[Azure Infrastructure WebApp deployment with Terraform](#)** - Automated cloud deployment using Terraform & Azure.  
+- 🏗 **[IT Automation with PowerShell](#)** - Scripts for managing Microsoft environments efficiently.  
+- 📦 **[Dockerized UPS Monitorng and Automated Shutdown Solution](#)** - Containerized deployment of a scalable web application.  
+
+---
+
 ### **📫 Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+
+---
 
 What i like to do:
 - **Cloud Solutions:** Design and deploy scalable, secure infrastructure on **Azure**.
@@ -47,8 +55,5 @@ What i like to do:
 - **Containerization:** Build efficient, portable applications with **Docker**.
 - **Infrastructure Management:** Manage hybrid environments, ensuring high availability and performance.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=miquelgarcia0&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
 <!--
 **miquelgarcia0/miquelgarcia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
