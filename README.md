@@ -7,24 +7,21 @@ Cloud & IT Infrastructure Enthusiast | IT Operations | Azure | Automation
 ---
 ### **💻 Tech Stack**  
 
-#### 🚀 **Cloud & Ops**  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+#### 🚀 *Cloud & Ops*  🖥️ *Systems & Networking* 🗄️ *Databases* ⚡ *Automation & Scripting*  
 
-#### 🖥️ **Systems & Networking**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)  
-![Networking](https://img.shields.io/badge/Networking-228B22?style=for-the-badge)  
-
-#### 🗄️ **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
-
-#### ⚡ **Automation & Scripting**  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+<p align="left"> 
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="50" height="50"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> </a> 
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/powershell.svg" alt="bash" width="50" height="50"/> </a
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" height="50" style="vertical-align:top; margin:4px"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="terraform" width="50" height="50"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>  
+  <a href="https://www.microsoft365.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg" alt="microsoft365" width="50" height="50"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="mysql" width="50" height="50"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+</p>
 
 ---
 
@@ -47,13 +44,6 @@ Cloud & IT Infrastructure Enthusiast | IT Operations | Azure | Automation
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-garcia-24a99b242/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mikii05g@gmail.com)  
 
----
-
-What i like to do:
-- **Cloud Solutions:** Design and deploy scalable, secure infrastructure on **Azure**.
-- **Automation:** Simplify workflows using **PowerShell**, **Bash**, and **Terraform**.
-- **Containerization:** Build efficient, portable applications with **Docker**.
-- **Infrastructure Management:** Manage hybrid environments, ensuring high availability and performance.
 
 <!--
 **miquelgarcia0/miquelgarcia0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
