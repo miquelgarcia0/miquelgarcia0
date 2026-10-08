@@ -26,6 +26,7 @@ A passionate DevOps Engineer based in Spain
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AZ-400](https://img.shields.io/badge/AZ--400-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miquelgarcia0&show_icons=true&locale=en&layout=compact" alt="miquelgarcia0" />
